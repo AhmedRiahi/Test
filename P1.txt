@@ -4,3 +4,5 @@ mon deuxieme commit
 4
 
 new bug
+
+new feature
